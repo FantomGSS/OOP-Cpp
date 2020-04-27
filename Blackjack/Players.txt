@@ -1,0 +1,41 @@
+Name: Ivan Ivanov
+Age: 28
+Victories: 5
+Count of games played: 6
+*Win rate*: 0.8
+Current points from the last game: 25
+
+Name: Petar Popov
+Age: 43
+Victories: 4
+Count of games played: 4
+*Win rate*: 1
+Current points from the last game: 21
+
+Name: Kiril Petkov
+Age: 53
+Victories: 2
+Count of games played: 4
+*Win rate*: 0.5
+Current points from the last game: 21
+
+Name: Angel Vladimirov
+Age: 37
+Victories: 3
+Count of games played: 4
+*Win rate*: 0.8
+Current points from the last game: 20
+
+Name: Mirela Lefterova
+Age: 67
+Victories: 2
+Count of games played: 6
+*Win rate*: 0.3
+Current points from the last game: 26
+
+Name: Denica Dimitrova
+Age: 19
+Victories: 3
+Count of games played: 5
+*Win rate*: 0.6
+Current points from the last game: 19
